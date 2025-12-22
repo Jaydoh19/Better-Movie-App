@@ -3,8 +3,8 @@
 A simple movie browsing app built to practice **React** fundamentals (components, hooks, routing, API requests, and state management). The app lets you discover movies, search titles, and view details like ratings, overviews, and release dates.
 
 ## Demo
-- Live Site: _Add your deployed link here_
-- Repo: _Add your GitHub repo link here_
+- Live Site: https://jaydoh19.github.io/Better-Movie-App/
+- Repo: https://github.com/Jaydoh19/Better-Movie-App
 
 ## Features
 - Browse popular/trending movies
@@ -15,12 +15,10 @@ A simple movie browsing app built to practice **React** fundamentals (components
 
 ## Built With
 - **React**
-- **React Router** (if used)
-- **Fetch/Axios** for API requests (whichever you used)
-- CSS / Tailwind / Bootstrap (pick what you used)
+- Fetch* for API requests 
+- CSS / Tailwind / 
 
 ## API
-This project uses a movie API such as:
 - **TMDB (The Movie Database)**
 
 > Note: You’ll need an API key to run locally.
@@ -29,5 +27,5 @@ This project uses a movie API such as:
 
 ### 1) Clone the repo
 ```bash
-git clone <YOUR_REPO_URL>
+git clone https://github.com/Jaydoh19/Better-Movie-App
 cd better-movie-app
